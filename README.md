@@ -1,6 +1,6 @@
 # 🛡️ Desafio: Escrevendo as Classes de um Jogo
 <p align="center">
-  <img src="https://th.bing.com/th/id/OIG2.C1df7GWfxvVOR6t_3iPl?pid=ImgGn" width="60%">
+  <img src="https://th.bing.com/th/id/OIG2.Dy0e_SLwEXi9Bh88LoYv?pid=ImgGn" width="50%">
 </p>
 
 Este projeto faz parte de um desafio que envolve a criação de uma classe para representar um herói em uma aventura. A classe deve incluir propriedades básicas e métodos que permitam simular ataques baseados no tipo de herói.
